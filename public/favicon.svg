@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Humanitas">
+  <rect width="64" height="64" rx="8" fill="#813D3B"/>
+  <g fill="none" stroke="#EDE4D3" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M14 16h36M18 16v30M46 16v30M12 46h40M26 16v30M38 16v30"/>
+    <path d="M24 26h16"/>
+    <path d="M10 50h44"/>
+  </g>
+  <path d="M32 8l3.2 5.5h-6.4L32 8z" fill="#B39A69"/>
+</svg>

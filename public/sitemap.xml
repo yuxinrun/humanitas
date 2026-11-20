@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://yuxinrun.github.io/humanitas/#/</loc><priority>1.0</priority></url>
+  <url><loc>https://yuxinrun.github.io/humanitas/#/civilizations</loc><priority>0.8</priority></url>
+  <url><loc>https://yuxinrun.github.io/humanitas/#/philosophy</loc><priority>0.8</priority></url>
+  <url><loc>https://yuxinrun.github.io/humanitas/#/literature</loc><priority>0.8</priority></url>
+  <url><loc>https://yuxinrun.github.io/humanitas/#/art</loc><priority>0.8</priority></url>
+  <url><loc>https://yuxinrun.github.io/humanitas/#/architecture</loc><priority>0.8</priority></url>
+  <url><loc>https://yuxinrun.github.io/humanitas/#/music</loc><priority>0.8</priority></url>
+  <url><loc>https://yuxinrun.github.io/humanitas/#/books</loc><priority>0.8</priority></url>
+  <url><loc>https://yuxinrun.github.io/humanitas/#/articles</loc><priority>0.9</priority></url>
+  <url><loc>https://yuxinrun.github.io/humanitas/#/about</loc><priority>0.6</priority></url>
+  <url><loc>https://yuxinrun.github.io/humanitas/#/search</loc><priority>0.5</priority></url>
+
+  <url><loc>https://yuxinrun.github.io/humanitas/#/articles/ancient-greece</loc></url>
+  <url><loc>https://yuxinrun.github.io/humanitas/#/articles/ancient-egypt</loc></url>
+  <url><loc>https://yuxinrun.github.io/humanitas/#/articles/renaissance</loc></url>
+  <url><loc>https://yuxinrun.github.io/humanitas/#/articles/ancient-rome-architecture</loc></url>
+  <url><loc>https://yuxinrun.github.io/humanitas/#/articles/plato</loc></url>
+  <url><loc>https://yuxinrun.github.io/humanitas/#/articles/aristotle</loc></url>
+  <url><loc>https://yuxinrun.github.io/humanitas/#/articles/laozi</loc></url>
+  <url><loc>https://yuxinrun.github.io/humanitas/#/articles/zhuangzi</loc></url>
+  <url><loc>https://yuxinrun.github.io/humanitas/#/articles/kant</loc></url>
+  <url><loc>https://yuxinrun.github.io/humanitas/#/articles/nietzsche</loc></url>
+  <url><loc>https://yuxinrun.github.io/humanitas/#/articles/davinci</loc></url>
+  <url><loc>https://yuxinrun.github.io/humanitas/#/articles/michelangelo</loc></url>
+  <url><loc>https://yuxinrun.github.io/humanitas/#/articles/raphael</loc></url>
+  <url><loc>https://yuxinrun.github.io/humanitas/#/articles/van-gogh</loc></url>
+  <url><loc>https://yuxinrun.github.io/humanitas/#/articles/monet</loc></url>
+  <url><loc>https://yuxinrun.github.io/humanitas/#/articles/modern-art</loc></url>
+  <url><loc>https://yuxinrun.github.io/humanitas/#/articles/shakespeare</loc></url>
+  <url><loc>https://yuxinrun.github.io/humanitas/#/articles/tolstoy</loc></url>
+  <url><loc>https://yuxinrun.github.io/humanitas/#/articles/dostoevsky</loc></url>
+  <url><loc>https://yuxinrun.github.io/humanitas/#/articles/dante</loc></url>
+  <url><loc>https://yuxinrun.github.io/humanitas/#/articles/chinese-landscape</loc></url>
+  <url><loc>https://yuxinrun.github.io/humanitas/#/articles/gothic-architecture</loc></url>
+  <url><loc>https://yuxinrun.github.io/humanitas/#/articles/indian-buddhist-art</loc></url>
+  <url><loc>https://yuxinrun.github.io/humanitas/#/articles/beethoven</loc></url>
+</urlset>
